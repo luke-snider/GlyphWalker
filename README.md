@@ -16,7 +16,7 @@ GlyphWalker
 
 
 
-![alt text](https://github.com/luke-snider/GlyphWalker/blob/master/GlyphWalker_icon.png?raw=true)
+![alt text](https://github.com/luke-snider/GlyphWalker/blob/master/GlyphWalker_Icon.png?raw=true)
 
 
 
