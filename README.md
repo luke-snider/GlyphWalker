@@ -21,10 +21,6 @@ GlyphWalker
 
 
 
-![alt text](https://github.com/luke-snider/GlyphWalker/blob/master/GlyphWalker_screen4.png?raw=true)
-
-
-
 ![alt text](https://github.com/luke-snider/GlyphWalker/blob/master/GlyphWalker_screen2.png?raw=true)
 
 
